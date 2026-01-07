@@ -1,8 +1,70 @@
-# 🤖  Hi there! I am Hyunji. 😎
+# 👋 Hi, I'm Hyunji
+<p align="left">
+  <a href="https://www.linkedin.com/in/%ED%98%84%EC%A7%80-park-433a58391/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ggoongdeng.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
+  </a>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<intheji>&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Get in Touch
+☕ **Aspiring Backend Developer (Java & Spring)**  
+I focus on writing clean, maintainable, and scalable backend code.
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://ggoongdeng.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/%ED%98%84%EC%A7%80-park-433a58391/>)](<https://www.linkedin.com/in/%ED%98%84%EC%A7%80-park-433a58391/>)
+---
+
+## 🧑‍💻 About Me
+- 🎯 Preparing for an **Entry-level Backend Developer** position  
+- ☕ Main stack: **Java, Spring Boot**  
+- 🧠 Interested in **RESTful API design**, **clean code**, and **server-side architecture**  
+- 📚 Continuously learning through coding practice and technical study  
+- 🤝 Open to feedback and collaboration  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Language
+- **Java**
+
+### ⚙️ Backend Framework
+- **Spring Boot**
+- Spring MVC
+- Spring Data JPA
+
+### 🗄 Database
+- MySQL
+- H2 (for testing)
+
+### 🔧 Tools & Environment
+- Git / GitHub  
+- IntelliJ IDEA  
+- Gradle / Maven  
+- Linux (basic)  
+
+---
+
+## 📌 Projects (Coming Soon)
+> Currently working on personal projects to apply my backend knowledge in real-world scenarios.  
+> This section will be updated soon.
+
+---
+
+## 📚 Currently Learning
+- Spring Security (Authentication & Authorization)
+- JPA performance optimization
+- REST API best practices
+- Database design fundamentals
+
+---
+
+## 📫 Contact
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/yourname  
+
+---
+
+⭐️ *Thank you for visiting my GitHub profile.*
+
 
