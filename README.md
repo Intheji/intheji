@@ -60,8 +60,7 @@ I focus on writing clean, maintainable, and scalable backend code.
 ---
 
 ## 📫 Contact
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yourname  
+- 📧 Email: intheji3830@gmail.com
 
 ---
 
