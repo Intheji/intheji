@@ -15,11 +15,7 @@ I focus on writing clean, maintainable, and scalable backend code.
 ---
 
 ## 🧑‍💻 About Me
-- 🎯 Preparing for an **Entry-level Backend Developer** position  
-- ☕ Main stack: **Java, Spring Boot**  
-- 🧠 Interested in **RESTful API design**, **clean code**, and **server-side architecture**  
-- 📚 Continuously learning through coding practice and technical study  
-- 🤝 Open to feedback and collaboration  
+
 
 ---
 
@@ -29,19 +25,13 @@ I focus on writing clean, maintainable, and scalable backend code.
 - **Java**
 
 ### ⚙️ Backend Framework
-- **Spring Boot**
-- Spring MVC
-- Spring Data JPA
+
 
 ### 🗄 Database
-- MySQL
-- H2 (for testing)
+
 
 ### 🔧 Tools & Environment
-- Git / GitHub  
-- IntelliJ IDEA  
-- Gradle / Maven  
-- Linux (basic)  
+
 
 ---
 
@@ -52,10 +42,7 @@ I focus on writing clean, maintainable, and scalable backend code.
 ---
 
 ## 📚 Currently Learning
-- Spring Security (Authentication & Authorization)
-- JPA performance optimization
-- REST API best practices
-- Database design fundamentals
+
 
 ---
 
