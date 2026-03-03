@@ -9,42 +9,6 @@
 </p>
 
 
-☕ **Aspiring Backend Developer (Java & Spring)**  
-I focus on writing clean, maintainable, and scalable backend code.
-
----
-
-## 🧑‍💻 About Me
-
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Language
-- **Java**
-
-### ⚙️ Backend Framework
-
-
-### 🗄 Database
-
-
-### 🔧 Tools & Environment
-
-
----
-
-## 📌 Projects (Coming Soon)
-> Currently working on personal projects to apply my backend knowledge in real-world scenarios.  
-> This section will be updated soon.
-
----
-
-## 📚 Currently Learning
-
-
----
 
 ## 📫 Contact
 - 📧 Email: intheji3830@gmail.com
